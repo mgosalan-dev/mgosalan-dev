@@ -10,28 +10,27 @@
 <br>
 
 <div align="center">
-  <!-- GitHub Trophy -->
+  <!-- GitHub Trophy - Um verdadeiro aventureiro tem que ter seus troféus! -->
   <img src="https://github-profile-trophy.vercel.app/?username=mgosalan-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   
   <br><br>
   
-  <!-- GitHub Stats Card com estilo avançado -->
+  <!-- GitHub Stats Card com estilo aventureiro -->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   
-  <!-- Most Used Languages com layout avançado -->
+  <!-- Most Used Languages - as armas que nosso guerreiro domina -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   
   <br><br>
   
-  <!-- Gráfico de contribuições avançado -->
+  <!-- Gráfico de batalhas travadas -->
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mgosalan-dev&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <br>
 
-<!-- Seção Main -->
+<!-- Seção Main com Spotify - porque todo aventureiro precisa de uma trilha sonora épica -->
 <div align="center">
-  <!-- Spotify Now Playing -->
   <a href="https://open.spotify.com/user/31j7hfynwj4nuyukhgnv4oqohvim">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Currently Playing" width="350" />
   </a>
@@ -39,11 +38,11 @@
 
 <br>
 
-<!-- Stack de Tecnologias Avançada -->
+<!-- Tech Stack - O arsenal de um dev rank SSS -->
 <div align="center">
   <h2>💻 Tech Stack</h2>
   
-  <!-- Linguagens de Programação -->
+  <!-- Linguagens de Programação - as magias básicas -->
   <h3>Linguagens</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
@@ -52,7 +51,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </p>
   
-  <!-- Frontend -->
+  <!-- Frontend - armas de longo alcance -->
   <h3>Frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -66,7 +65,7 @@
     <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   </p>
   
-  <!-- Backend -->
+  <!-- Backend - magias de invocação -->
   <h3>Backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -76,7 +75,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring" />
   </p>
   
-  <!-- Database & DevOps -->
+  <!-- Database & DevOps - equipamentos especiais -->
   <h3>Database & DevOps</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
@@ -92,24 +91,7 @@
 
 <br>
 
-<!-- Projetos Destacados -->
-<div>
-  <h2 align="center">🚀 Projetos Destacados</h2>
-  <br>
-  <div align="center">
-    <a href="https://github.com/mgosalan-dev/projeto-incrivel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=projeto-incrivel&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mgosalan-dev/outro-projeto-incrivel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=outro-projeto-incrivel&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-  </div>
-</div>
-
-<br>
-
-<!-- Seção de Contribuições com Grid -->
+<!-- Seção de Contribuições com Grid - mostrando o caminho do guerreiro -->
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
   <br>
@@ -118,7 +100,7 @@
 
 <br>
 
-<!-- Contador de Visitantes Customizado -->
+<!-- Contador de Visitantes - quantos já testemunharam seu poder -->
 <div align="center">
   <h2>👀 Visitantes</h2>
   <br>
@@ -127,7 +109,7 @@
   </p>
 </div>
 
-<!-- Contatos com ícones customizados -->
+<!-- Contatos - para formar party com esse aventureiro -->
 <h2 align="center">📫 Contato</h2>
 <div align="center">
   <a href="mailto:mgosalan.dev@gmail.com">
@@ -143,7 +125,7 @@
 
 <br>
 
-<!-- Footer animado -->
+<!-- Footer animado - a mensagem final do aventureiro -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;Entre+em+contato!;Vamos+codar+juntos!" />
 </div>

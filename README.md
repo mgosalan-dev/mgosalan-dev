@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Manoel Gosalan | Desenvolvedor Web
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Manoel Gosalan | Desenvolvedor Full stack
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8257E6,100:FF0080&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Brasil%20→%20Portugal&descAlignY=55&descAlign=62)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8257E6,100:FF0080&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Brasil%20→%20Portugal&descAlignY=55&descAlign=62)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;Frontend+Developer+%F0%9F%92%BB;C%C3%B3digo+limpo%2C+interfaces+top+%F0%9F%94%A5;Always+learning+%F0%9F%93%9A;Rank+SSS+Adventurer+%F0%9F%8E%AE" alt="Typing SVG" />
@@ -123,10 +123,10 @@ graph TD
 ## 📱 Me Encontre
 
 <div align="center">
-  <a href="https://instagram.com/Manoel-Lidio-Gosalan" target="_blank">
+  <a href="https://instagram.com/manoel_lidio_gosalan" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=E4405F">
   </a>
-  <a href="https://linkedin.com/in/ManoelGosalan" target="_blank">
+  <a href="https://www.linkedin.com/in/manoel-lidio-gosalan-dos-santos-6954a7263/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
   <a href="mailto:mgosalan.dev@gmail.com" target="_blank">

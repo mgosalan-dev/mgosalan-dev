@@ -1,90 +1,163 @@
-# 👨‍💻 Manoel Gosalan | Desenvolvedor FULL STACK
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Manoel Gosalan | Desenvolvedor Web
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20React&descAlignY=55&descAlign=62)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8257E6,100:FF0080&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Brasil%20→%20Portugal&descAlignY=55&descAlign=62)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Mundo!+%F0%9F%8C%8E;Frontend+Developer+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%94%A5;Sempre+aprendendo+%F0%9F%93%9A;Aventureiro+Rank+SSS+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;Frontend+Developer+%F0%9F%92%BB;C%C3%B3digo+limpo%2C+interfaces+top+%F0%9F%94%A5;Always+learning+%F0%9F%93%9A;Rank+SSS+Adventurer+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
+## 🧙‍♂️ Quem Sou Eu
 
 ```javascript
 const manoel = {
-  localização: "PORTO pt",
+  localização: "Porto, Portugal 🇵🇹 (Brasileiro 🇧🇷)",
   stack: ["HTML", "CSS", "JavaScript", "React"],
-  aprendendo: ["TypeScript", "Node.js"],
-  paixões: ["Desenvolvimento Full Stack", "UI/UX", "Games", "Tecnologia"],
-  objetivo: "Criar experiências web e mobile incríveis e acessíveis"
+  aprendendo: ["Node.js", "TypeScript"],
+  visão: "Transformar ideias em código que resolve problemas reais",
+  jornada: "De Brasil para Portugal, evoluindo a cada commit",
+  mantra: "Código limpo hoje = menos bugs amanhã"
 };
 ```
 
-## 📊 GitHub Stats
+## 🚀 Projetos em Destaque
+
+### 📱 Projetos Responsivos & Interativos
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🎮 Projetos Aventureiros
-
-<div align="center">
-  <a href="https://github.com/mgosalan-dev/Contador-de-Horas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Contador-de-Horas&theme=radical" />
-  </a>
   <a href="https://github.com/mgosalan-dev/horas-do-dia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=horas-do-dia&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=horas-do-dia&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mgosalan-dev/Contador-de-Horas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Contador-de-Horas&theme=tokyonight" />
   </a>
 </div>
-<br/>
+
+**⭐ Horas do Dia**: Site dinâmico que atualiza o fundo e as imagens conforme o período (manhã, tarde, noite), mostrando a hora atual ao utilizador com interface responsiva e intuitiva.
+
+**⭐ Contador de Horas**: Aplicação web completa que permite controlar horas, com capacidade de exportar para PDF. Inclui estilização CSS avançada e lógica JavaScript para manipulação de tempo.
+
+### 🎨 Projetos Front-end Estilizados
+
 <div align="center">
-  <a href="https://github.com/mgosalan-dev/Cordel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=radical" />
-  </a>
   <a href="https://github.com/mgosalan-dev/World-Of-Warcraft">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mgosalan-dev/Cordel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=tokyonight" />
   </a>
 </div>
 
-## 🔥 Tecnologias & Ferramentas
+**⭐ World of Warcraft**: Site responsivo inspirado no universo WoW, com design adaptativo para diferentes dispositivos e técnicas avançadas de CSS para criar uma experiência imersiva.
+
+**⭐ Projeto Cordel**: Implementação web de cordel com efeito parallax, combinando HTML5 semântico e CSS3 moderno para criar uma experiência de leitura interativa e responsiva.
+
+### 🧠 Projetos Funcionais
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <a href="https://github.com/mgosalan-dev/Idade-de-Voto-e-Alistamento">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Idade-de-Voto-e-Alistamento&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mgosalan-dev/verificacao-de-voto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=verificacao-de-voto&theme=tokyonight" />
+  </a>
 </div>
 
-## 🧩 Skill Tree (Rank SSS)
+**⭐ Idade de Voto**: Aplicação que verifica elegibilidade de voto com base na idade, combinando HTML, CSS e JavaScript para criar uma ferramenta prática e estilizada.
+
+**⭐ Verificação de Voto**: Sistema que analisa a situação eleitoral do utilizador, utilizando lógica JavaScript para processar dados e retornar resultados personalizados.
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+## 🌟 Skill Tree (Aventureiro Rank SSS)
 
 ```
-🔴 HTML/CSS........: [██████████████████] 90%
-🟡 JavaScript......: [███████████████▒▒▒] 75%
-🔵 React...........: [████████▒▒▒▒▒▒▒▒▒▒] 40%
-🟣 UI/UX Design....: [██████████▒▒▒▒▒▒▒▒] 50%
-🟢 Responsive Web..: [████████████████▒▒] 80%
+⚔️ Frontend Warrior
+├─ HTML5................: [██████████████████] ⭐⭐⭐⭐⭐
+├─ CSS3 & Responsividade: [████████████████▒▒] ⭐⭐⭐⭐
+├─ JavaScript...........: [███████████████▒▒▒] ⭐⭐⭐⭐
+└─ React................: [████████▒▒▒▒▒▒▒▒▒▒] ⭐⭐
+
+🛡️ Backend Explorer
+└─ Python...............: [██████▒▒▒▒▒▒▒▒▒▒▒▒] ⭐⭐
+
+🧙 Dev Skills
+├─ Git/GitHub............: [████████████▒▒▒▒▒▒] ⭐⭐⭐
+├─ Responsividade.......: [████████████████▒▒] ⭐⭐⭐⭐
+└─ Clean Code...........: [███████████▒▒▒▒▒▒▒] ⭐⭐⭐
 ```
 
-## 🌐 Redes Sociais
+## 🌍 Minha Jornada
 
-<div align="center"> 
+```mermaid
+graph TD
+    A[Início da Jornada no Brasil] -->|HTML & CSS| B[Sites Estáticos]
+    B --> C[Responsividade]
+    C -->|JavaScript| D[Sites Interativos]
+    D --> E[Projetos Funcionais]
+    E -->|Mudança para Portugal| F[Expansão Internacional]
+    F -->|React| G[Desenvolvimento Front-end Avançado]
+    G -->|Em progresso| H[Full Stack Developer]
+```
+
+## 📱 Me Encontre
+
+<div align="center">
   <a href="https://instagram.com/Manoel-Lidio-Gosalan" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=E4405F">
   </a>
   <a href="https://linkedin.com/in/ManoelGosalan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
   <a href="mailto:mgosalan.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </div>
 
-## 👾 Visitantes
+## 📌 Sobre Portugal
+
+<details>
+  <summary>Clicar para expandir</summary>
+  
+  Atualmente baseado em Porto, Portugal 🇵🇹, estou a expandir meus horizontes profissionais enquanto trago comigo todo o conhecimento e criatividade brasileira. Busco oportunidades para aplicar minhas habilidades no mercado europeu, mantendo as raízes e o estilo de desenvolvimento que aprendi no Brasil.
+  
+  **Por que Portugal?**
+  - Mercado tech em expansão
+  - Comunidade de desenvolvedores internacional
+  - Qualidade de vida para profissionais de tecnologia
+  - Ponte entre culturas brasileira e europeia
+
+</details>
+
+## 🔥 Contador de Visitantes
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mgosalan-dev/count.svg" alt="Contador de Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=mgosalan-dev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8257E6,100:FF0080&height=120&section=footer)

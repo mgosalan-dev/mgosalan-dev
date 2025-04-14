@@ -1,110 +1,90 @@
-<h1 align="center">⚔️ mgosalan-dev: Codando com Estilo & Magia! ⚔️</h1>
+# 👨‍💻 Manoel Gosalan | Desenvolvedor FULL STACK
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Mundo!+👋;Eu+sou+mgosalan-dev!;Desenvolvedor+Fullstack+🚀" />
-</h1>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20React&descAlignY=55&descAlign=62)
 
 <div align="center">
-  <p>Desenvolvedor apaixonado por transformar ideias em código 💡 • Solucionador de problemas • Lifelong learner</p>
-  <img src="https://komarev.com/ghpvc/?username=mgosalan-dev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Mundo!+%F0%9F%8C%8E;Frontend+Developer+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%94%A5;Sempre+aprendendo+%F0%9F%93%9A;Aventureiro+Rank+SSS+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
-<br>
+## 🚀 Sobre Mim
 
-## 🧑‍💻 Sobre mim
+```javascript
+const manoel = {
+  localização: "PORTO pt",
+  stack: ["HTML", "CSS", "JavaScript", "React"],
+  aprendendo: ["TypeScript", "Node.js"],
+  paixões: ["Desenvolvimento Full Stack", "UI/UX", "Games", "Tecnologia"],
+  objetivo: "Criar experiências web e mobile incríveis e acessíveis"
+};
+```
 
-Desenvolvedor fullstack com paixão por transformar ideias em experiências digitais.  
-Curioso por natureza, sempre pronto pra aprender algo novo e encarar desafios como quests diárias.  
-Atualmente focado em projetos com **React**, **Node.js**, **FastAPI** e **AWS**.
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mgosalan-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-  
-  <br><br>
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  
-  <br><br>
-  
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mgosalan-dev&theme=react-dark&hide_border=true&area=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<br>
+## 🎮 Projetos Aventureiros
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31j7hfynwj4nuyukhgnv4oqohvim">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Currently Playing" width="350" />
+  <a href="https://github.com/mgosalan-dev/Contador-de-Horas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Contador-de-Horas&theme=radical" />
+  </a>
+  <a href="https://github.com/mgosalan-dev/horas-do-dia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=horas-do-dia&theme=radical" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/mgosalan-dev/Cordel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=radical" />
+  </a>
+  <a href="https://github.com/mgosalan-dev/World-Of-Warcraft">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=radical" />
   </a>
 </div>
 
-<br>
+## 🔥 Tecnologias & Ferramentas
 
 <div align="center">
-  <h2>🧠 Tech Stack como Níveis de RPG</h2>
-  
-  <h3>🧙‍♂️ Magias Maiores (Domínio Forte)</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  </p>
-
-  <h3>🛡️ Habilidades Aprendidas (Experiência Intermediária)</h3>
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" />
-  </p>
-
-  <h3>🧪 Em Treinamento (Explorando Atualmente)</h3>
-  <p>
-    <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  </p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-<br>
+## 🧩 Skill Tree (Rank SSS)
 
-<div align="center">
-  <h2>📊 Minhas Contribuições</h2>
-  <br>
-  <img alt="Snake Animation" src="https://github.com/mgosalan-dev/mgosalan-dev/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
+```
+🔴 HTML/CSS........: [██████████████████] 90%
+🟡 JavaScript......: [███████████████▒▒▒] 75%
+🔵 React...........: [████████▒▒▒▒▒▒▒▒▒▒] 40%
+🟣 UI/UX Design....: [██████████▒▒▒▒▒▒▒▒] 50%
+🟢 Responsive Web..: [████████████████▒▒] 80%
+```
 
-<br>
+## 🌐 Redes Sociais
 
-<div align="center">
-  <h2>👀 Visitantes</h2>
-  <br>
-  <p>
-    <img src="https://custom-icon-badges.demolab.com/badge/Perfil%20Visitado-1757-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-  </p>
-</div>
-
-<h2 align="center">📫 Contato</h2>
-<div align="center">
-  <a href="mailto:mgosalan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<div align="center"> 
+  <a href="https://instagram.com/Manoel-Lidio-Gosalan" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/manoel-lidio-gosalan-dos-santos-6954a7263/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/ManoelGosalan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/manoel_lidio_gosalan/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:mgosalan.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-<br>
+## 👾 Visitantes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;Entre+em+contato!..." />
+  <img src="https://profile-counter.glitch.me/mgosalan-dev/count.svg" alt="Contador de Visitantes" />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

@@ -94,11 +94,11 @@ const manoel = {
 ## 🌟 Skill Tree (Aventureiro Rank SSS)
 
 ```
-⚔️ Frontend Warrior
-├─ HTML5................: [██████████████████] ⭐⭐⭐⭐⭐
-├─ CSS3 & Responsividade: [████████████████▒▒] ⭐⭐⭐⭐
-├─ JavaScript...........: [███████████████▒▒▒] ⭐⭐⭐⭐
-└─ React................: [████████▒▒▒▒▒▒▒▒▒▒] ⭐⭐
+## 🛠️ Meu Tech Stack Real
+
+![HTML](https://img.shields.io/badge/HTML-79.97%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-10.24%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9.79%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 🛡️ Backend Explorer
 └─ Python...............: [██████▒▒▒▒▒▒▒▒▒▒▒▒] ⭐⭐

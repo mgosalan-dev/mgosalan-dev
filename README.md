@@ -42,7 +42,7 @@ const manoel = {
   <a href="https://github.com/mgosalan-dev/World-Of-Warcraft">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=tokyonight" />
   </a>
-  <a href="https://github.com/mgosalan-dev/Cordel">
+  <a href[="https://github.com/mgosalan-dev/Cordel](https://mgosalan-dev.github.io/Cordel/)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=tokyonight" />
   </a>
 </div>

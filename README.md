@@ -94,7 +94,7 @@ const manoel = {
 ## 🌟 Skill Tree (Aventureiro Rank SSS)
 
 ```
-## 🛠️ Meu Tech Stack Real
+## 🔥 Meu Tech Stack Real
 
 ![HTML](https://img.shields.io/badge/HTML-79.97%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-10.24%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)

@@ -24,10 +24,10 @@ const manoel = {
 ### 📱 Projetos Responsivos & Interativos
 
 <div align="center">
-  <a href="https://github.com/mgosalan-dev/horas-do-dia">
+  <a href="https://mgosalan-dev.github.io/horas-do-dia" title="Ver Site horas-do-dia">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=horas-do-dia&theme=tokyonight" />
   </a>
-  <a href="https://github.com/mgosalan-dev/Contador-de-Horas">
+  <a href="https://mgosalan-dev.github.io/Contador-de-Horas" title="Ver Site Contador-de-Horas">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Contador-de-Horas&theme=tokyonight" />
   </a>
 </div>
@@ -39,7 +39,7 @@ const manoel = {
 ### 🎨 Projetos Front-end Estilizados
 
 <div align="center">
-  <a href="https://github.com/mgosalan-dev/World-Of-Warcraft">
+  <a href="https://mgosalan-dev.github.io/World-Of-Warcraft" title="Ver site World-Of-Wacraft">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=tokyonight" />
   </a>
   <a href="https://mgosalan-dev.github.io/Cordel/" title="Ver site Cordel">

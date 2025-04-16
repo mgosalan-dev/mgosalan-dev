@@ -11,7 +11,7 @@ const manoelGosalan = {
   visão: "Transformar ideias em código que resolve problemas reais",
   jornada: "De Brasil para Portugal, evoluindo a cada commit",
   mantra: "Código limpo hoje = menos bugs amanhã",
-  hobbs: "Games, Tecnologia, Animes"
+  hobbs: "Animes, Tecnologia, Games"
 };
                     // Em andamento 🚀
 const Estudos = [

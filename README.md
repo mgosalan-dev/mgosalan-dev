@@ -1,7 +1,3 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Manoel Gosalan | Desenvolvedor Full stack
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8257E6,100:FF0080&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Brasil%20→%20Portugal&descAlignY=55&descAlign=62)
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;Full-Stack+Developer+%F0%9F%92%BB;C%C3%B3digo+limpo%2C+interfaces+top+%F0%9F%94%A5;Always+learning+%F0%9F%93%9A;Rank+SSS+Adventurer+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
@@ -9,14 +5,23 @@
 ## 🧙‍♂️ Quem Sou Eu
 
 ```javascript
-const manoel = {
+const manoelGosalan = {
   localização: "Porto, Portugal 🇵🇹 (Brasileiro 🇧🇷)",
-  stack: ["HTML", "CSS", "JavaScript", "React"],
-  aprendendo: ["Node.js", "TypeScript"],
+  stack: ["HTML", "CSS", "JavaScript", "React", "Python", "Git", "Node.js"],
   visão: "Transformar ideias em código que resolve problemas reais",
   jornada: "De Brasil para Portugal, evoluindo a cada commit",
-  mantra: "Código limpo hoje = menos bugs amanhã"
+  mantra: "Código limpo hoje = menos bugs amanhã",
+  hobbs: "Games, Tecnologia, Animes"
 };
+                    // Em andamento 🚀
+const Estudos = [
+  { tech: "Node.js", status: "explorando rotas, APIs REST" },
+  { tech: "TypeScript", status: "refatorando JS e criando tipagens" },
+  { tech: "React Native", status: "apps em progresso" },
+  { tech: "TailwindCSS", status: "testando estilização com utilitários" },
+  { tech: "MongoDB", status: "estrutura de dados flexível no back" }
+];
+
 ```
 
 ## 🛠️ Tech Stack & Skills
@@ -41,21 +46,10 @@ const manoel = {
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-```js
-// Em andamento 🚀
-const metaDeEstudo = [
-  { tech: "Node.js", status: "explorando rotas, APIs REST" },
-  { tech: "TypeScript", status: "refatorando JS e criando tipagens" },
-  { tech: "React Native", status: "apps em progresso" },
-  { tech: "TailwindCSS", status: "testando estilização com utilitários" },
-  { tech: "MongoDB", status: "estrutura de dados flexível no back" }
-];
-```
-
 ### 📈 Progresso de Aprendizado (Estilo RPG ⚔️)
 
 ```plaintext
-🧙 Node.js......... [████▒▒▒▒▒▒▒] 40%
+🧙 Node.js......... [███████▒▒▒▒] 60%
 🧙 TypeScript...... [███▒▒▒▒▒▒▒▒] 30%
 🧙 React Native.... [██▒▒▒▒▒▒▒▒▒] 25%
 🧙 TailwindCSS..... [███▒▒▒▒▒▒▒▒] 30%

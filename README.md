@@ -96,9 +96,10 @@ const manoel = {
 ```
 ## 🔥 Meu Tech Stack Real
 
-![HTML](https://img.shields.io/badge/HTML-79.97%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-10.24%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9.79%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+⚔️ Frontend Warrior
+├─ HTML5................: [██████████████████████] 79.97% ⭐⭐⭐⭐⭐
+├─ CSS3 & Responsividade: [██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 10.24% ⭐⭐⭐⭐
+└─ JavaScript...........: [██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 9.79% ⭐⭐⭐⭐
 
 🛡️ Backend Explorer
 └─ Python...............: [██████▒▒▒▒▒▒▒▒▒▒▒▒] ⭐⭐

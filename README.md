@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8257E6,100:FF0080&height=200&section=header&text=Manoel%20Gosalan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Brasil%20→%20Portugal&descAlignY=55&descAlign=62)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;Frontend+Developer+%F0%9F%92%BB;C%C3%B3digo+limpo%2C+interfaces+top+%F0%9F%94%A5;Always+learning+%F0%9F%93%9A;Rank+SSS+Adventurer+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;Full-Stack+Developer+%F0%9F%92%BB;C%C3%B3digo+limpo%2C+interfaces+top+%F0%9F%94%A5;Always+learning+%F0%9F%93%9A;Rank+SSS+Adventurer+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
 ## 🧙‍♂️ Quem Sou Eu
@@ -29,7 +29,6 @@ const manoel = {
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ## 🌱 Tecnologias em Evolução

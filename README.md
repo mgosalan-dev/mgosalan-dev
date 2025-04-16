@@ -6,121 +6,45 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;Frontend+Developer+%F0%9F%92%BB;C%C3%B3digo+limpo%2C+interfaces+top+%F0%9F%94%A5;Always+learning+%F0%9F%93%9A;Rank+SSS+Adventurer+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
-## 🧙‍♂️ Quem Sou Eu
+## 🧙‍♂️ Sobre Mim
 
-javascript
-const manoel = {
-  localização: "Porto, Portugal 🇵🇹 (Brasileiro 🇧🇷)",
-  stack: ["HTML", "CSS", "JavaScript", "React"],
-  aprendendo: ["Node.js", "TypeScript"],
-  visão: "Transformar ideias em código que resolve problemas reais",
-  jornada: "De Brasil para Portugal, evoluindo a cada commit",
-  mantra: "Código limpo hoje = menos bugs amanhã"
-};
+```javascript
+{
+  "localização": "Porto, Portugal 🇵🇹 (Brasileiro 🇧🇷)",
+  "stack": ["HTML", "CSS", "JavaScript", "React"],
+  "aprendendo": ["Node.js", "TypeScript"],
+  "objetivo": "Transformar ideias em código eficiente"
+}
+```
 
+---
 
 ## 🚀 Projetos em Destaque
 
-### 📱 Projetos Responsivos & Interativos
+- [Horas do Dia](https://mgosalan-dev.github.io/horas-do-dia) – Site dinâmico que muda com o período do dia *(HTML/CSS/JS)*
+- [WoW Clone](https://mgosalan-dev.github.io/World-Of-Warcraft) – Landing page responsiva do jogo *(HTML/CSS)*
+- [Contador de Horas](https://mgosalan-dev.github.io/Contador-de-Horas) – App para controle de horas com exportação em PDF *(JavaScript)*
+
+---
+
+## 🛠️ Tech Stack
+
+**Front-end:**  
+HTML5 • CSS3 • JavaScript • React
+
+**Back-end:**  
+Node.js • Python
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://mgosalan-dev.github.io/horas-do-dia" title="Ver Site horas-do-dia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=horas-do-dia&theme=tokyonight" />
-  </a>
-  <a href="https://mgosalan-dev.github.io/Contador-de-Horas" title="Ver Site Contador-de-Horas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Contador-de-Horas&theme=tokyonight" />
-  </a>
-</div>
-
-**⭐ Horas do Dia**: Site dinâmico que atualiza o fundo e as imagens conforme o período (manhã, tarde, noite), mostrando a hora atual ao utilizador com interface responsiva e intuitiva.
-
-**⭐ Contador de Horas**: Aplicação web completa que permite controlar horas, com capacidade de exportar para PDF. Inclui estilização CSS avançada e lógica JavaScript para manipulação de tempo.
-
-### 🎨 Projetos Front-end Estilizados
-
-<div align="center">
-  <a href="https://mgosalan-dev.github.io/World-Of-Warcraft" title="Ver site World-Of-Wacraft">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=tokyonight" />
-  </a>
-  <a href="https://mgosalan-dev.github.io/Cordel/" title="Ver site Cordel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=tokyonight" />
-</a>
-
-  </a>
-</div>
-
-**⭐ World of Warcraft**: Site responsivo inspirado no universo WoW, com design adaptativo para diferentes dispositivos e técnicas avançadas de CSS para criar uma experiência imersiva.
-
-**⭐ Projeto Cordel**: Implementação web de cordel com efeito parallax, combinando HTML5 semântico e CSS3 moderno para criar uma experiência de leitura interativa e responsiva.
-
-### 🧠 Projetos Funcionais
-
-<div align="center">
-  <a href="https://github.com/mgosalan-dev/Idade-de-Voto-e-Alistamento">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Idade-de-Voto-e-Alistamento&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mgosalan-dev/verificacao-de-voto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=verificacao-de-voto&theme=tokyonight" />
-  </a>
-</div>
-
-**⭐ Idade de Voto**: Aplicação que verifica elegibilidade de voto com base na idade, combinando HTML, CSS e JavaScript para criar uma ferramenta prática e estilizada.
-
-**⭐ Verificação de Voto**: Sistema que analisa a situação eleitoral do utilizador, utilizando lógica JavaScript para processar dados e retornar resultados personalizados.
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center" style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-
-## 🌟 Skill Tree (Aventureiro Rank SSS)
-
-## 🔥 Meu Tech Stack Real
-
-⚔️ Frontend Warrior
-├─ HTML5................: [██████████████████████] 79.97% ⭐⭐⭐⭐⭐
-├─ CSS3 & Responsividade: [██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 10.24% ⭐⭐⭐⭐
-└─ JavaScript...........: [██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 9.79% ⭐⭐⭐⭐
-
-🛡️ Backend Explorer
-└─ Python...............: [██████▒▒▒▒▒▒▒▒▒▒▒▒] ⭐⭐
-
-🧙 Dev Skills
-├─ Git/GitHub............: [████████████▒▒▒▒▒▒] ⭐⭐⭐
-├─ Responsividade.......: [████████████████▒▒] ⭐⭐⭐⭐
-└─ Clean Code...........: [███████████▒▒▒▒▒▒▒] ⭐⭐⭐
-
-
-## 🌍 Minha Jornada
-
-mermaid
-graph TD
-    A[Início da Jornada no Brasil] -->|HTML & CSS| B[Sites Estáticos]
-    B --> C[Responsividade]
-    C -->|JavaScript| D[Sites Interativos]
-    D --> E[Projetos Funcionais]
-    E -->|Mudança para Portugal| F[Expansão Internacional]
-    F -->|React| G[Desenvolvimento Front-end Avançado]
-    G -->|Em progresso| H[Full Stack Developer]
-
+---
 
 ## 📱 Me Encontre
 
@@ -136,6 +60,22 @@ graph TD
   </a>
 </div>
 
+---
+
+## 🌍 Minha Jornada
+
+mermaid
+graph TD
+    A[Início da Jornada no Brasil] -->|HTML & CSS| B[Sites Estáticos]
+    B --> C[Responsividade]
+    C -->|JavaScript| D[Sites Interativos]
+    D --> E[Projetos Funcionais]
+    E -->|Mudança para Portugal| F[Expansão Internacional]
+    F -->|React| G[Desenvolvimento Front-end Avançado]
+    G -->|Em progresso| H[Full Stack Developer]
+
+---
+
 ## 📌 Sobre Portugal
 
 <details>
@@ -148,6 +88,8 @@ graph TD
   - Comunidade de desenvolvedores internacional
   - Qualidade de vida para profissionais de tecnologia
   - Ponte entre culturas brasileira e europeia
+
+---
 
 </details>
 

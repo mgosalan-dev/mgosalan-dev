@@ -10,25 +10,58 @@
 
 ```javascript
 const manoel = {
-  localizacao: "Porto, Portugal 🇵🇹 (Brasileiro 🇧🇷)",
+  localização: "Porto, Portugal 🇵🇹 (Brasileiro 🇧🇷)",
   stack: ["HTML", "CSS", "JavaScript", "React"],
   aprendendo: ["Node.js", "TypeScript"],
-  visao: "Transformar ideias em código que resolve problemas reais",
+  visão: "Transformar ideias em código que resolve problemas reais",
   jornada: "De Brasil para Portugal, evoluindo a cada commit",
   mantra: "Código limpo hoje = menos bugs amanhã"
 };
 ```
 
-## 🚀 Destaques e Conquistas
+## 🛠️ Tech Stack & Skills
 
-- 💼 Dev Fullstack com foco em front-end, interfaces fluidas e código limpo
-- 🌍 De João Pessoa para o mundo: atualmente no Porto, atuando em projetos autorais e open-source
-- 🧠 Sempre aprendendo: atualmente estudando TypeScript e arquitetura backend com Node.js
-- 🚀 Curioso por natureza, motivado por impacto real com software
+<div align="center" style="display: inline_block">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
----
+## 🌱 Tecnologias em Evolução
 
-## 🚀 Projetos em Destaque
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TailwindCSS" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
+
+```js
+// Em andamento 🚀
+const metaDeEstudo = [
+  { tech: "Node.js", status: "explorando rotas, APIs REST" },
+  { tech: "TypeScript", status: "refatorando JS e criando tipagens" },
+  { tech: "React Native", status: "apps em progresso" },
+  { tech: "TailwindCSS", status: "testando estilização com utilitários" },
+  { tech: "MongoDB", status: "estrutura de dados flexível no back" }
+];
+```
+
+### 📈 Progresso de Aprendizado (Estilo RPG ⚔️)
+
+```plaintext
+🧙 Node.js......... [████▒▒▒▒▒▒▒] 40%
+🧙 TypeScript...... [███▒▒▒▒▒▒▒▒] 30%
+🧙 React Native.... [██▒▒▒▒▒▒▒▒▒] 25%
+🧙 TailwindCSS..... [███▒▒▒▒▒▒▒▒] 30%
+🧙 MongoDB......... [█▒▒▒▒▒▒▒▒▒▒] 15%
+```
 
 ### 📱 Projetos Responsivos & Interativos
 
@@ -41,6 +74,10 @@ const manoel = {
   </a>
 </div>
 
+**⭐ Horas do Dia**: Site dinâmico que atualiza o fundo e as imagens conforme o período (manhã, tarde, noite), mostrando a hora atual ao utilizador com interface responsiva e intuitiva.
+
+**⭐ Contador de Horas**: Aplicação web completa que permite controlar horas, com capacidade de exportar para PDF. Inclui estilização CSS avançada e lógica JavaScript para manipulação de tempo.
+
 ### 🎨 Projetos Front-end Estilizados
 
 <div align="center">
@@ -48,9 +85,13 @@ const manoel = {
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=World-Of-Warcraft&theme=tokyonight" />
   </a>
   <a href="https://mgosalan-dev.github.io/Cordel/" title="Ver site Cordel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=tokyonight" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgosalan-dev&repo=Cordel&theme=tokyonight" />
+</a>
 </div>
+
+**⭐ World of Warcraft**: Site responsivo inspirado no universo WoW, com design adaptativo para diferentes dispositivos e técnicas avançadas de CSS para criar uma experiência imersiva.
+
+**⭐ Projeto Cordel**: Implementação web de cordel com efeito parallax, combinando HTML5 semântico e CSS3 moderno para criar uma experiência de leitura interativa e responsiva.
 
 ### 🧠 Projetos Funcionais
 
@@ -63,31 +104,20 @@ const manoel = {
   </a>
 </div>
 
----
+**⭐ Idade de Voto**: Aplicação que verifica elegibilidade de voto com base na idade, combinando HTML, CSS e JavaScript para criar uma ferramenta prática e estilizada.
+
+**⭐ Verificação de Voto**: Sistema que analisa a situação eleitoral do utilizador, utilizando lógica JavaScript para processar dados e retornar resultados personalizados.
 
 ## 📊 Minhas Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center" style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-
----
 
 ## 🌍 Minha Jornada
 
@@ -101,8 +131,6 @@ graph TD
     F -->|React| G[Desenvolvimento Front-end Avançado]
     G -->|Em progresso| H[Full Stack Developer]
 ```
-
----
 
 ## 📱 Me Encontre
 
@@ -118,22 +146,20 @@ graph TD
   </a>
 </div>
 
----
-
 ## 📌 Sobre Portugal
 
 <details>
   <summary>Clicar para expandir</summary>
+  
   Atualmente baseado em Porto, Portugal 🇵🇹, estou a expandir meus horizontes profissionais enquanto trago comigo todo o conhecimento e criatividade brasileira. Busco oportunidades para aplicar minhas habilidades no mercado europeu, mantendo as raízes e o estilo de desenvolvimento que aprendi no Brasil.
-
+  
   **Por que Portugal?**
   - Mercado tech em expansão
   - Comunidade de desenvolvedores internacional
   - Qualidade de vida para profissionais de tecnologia
   - Ponte entre culturas brasileira e europeia
-</details>
 
----
+</details>
 
 ## 🔥 Contador de Visitantes
 

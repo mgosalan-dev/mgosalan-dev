@@ -46,6 +46,17 @@ const Estudos = [
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
 ### 📈 Progresso de Aprendizado (Estilo RPG ⚔️)
 
 ```plaintext
@@ -100,17 +111,6 @@ const Estudos = [
 **⭐ Idade de Voto**: Aplicação que verifica elegibilidade de voto com base na idade, combinando HTML, CSS e JavaScript para criar uma ferramenta prática e estilizada.
 
 **⭐ Verificação de Voto**: Sistema que analisa a situação eleitoral do utilizador, utilizando lógica JavaScript para processar dados e retornar resultados personalizados.
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
 
 ## 🌍 Minha Jornada
 

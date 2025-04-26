@@ -23,6 +23,16 @@ const Estudos = [
 ];
 
 ```
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -46,16 +56,7 @@ const Estudos = [
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-## 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgosalan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mgosalan-dev&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgosalan-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
 
 ### 📈 Progresso de Aprendizado (Estilo RPG ⚔️)
 
